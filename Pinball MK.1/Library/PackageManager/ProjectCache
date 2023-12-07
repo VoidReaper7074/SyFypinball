@@ -6,7 +6,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638374238475796151
+      ticks: 638375166670954372
     m_Hash: 2584840489
   m_LockFileStatus:
     m_FilePath: C:/Users/Tarkinz/Documents/school/Fall_2023/cst421/pinball1/Pinball
@@ -15,7 +15,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638374238475796151
+      ticks: 638375166670954372
     m_Hash: 368091525
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -338,6 +338,7 @@ m_ResolvedPackages:
     - 3.0.24
     - 3.0.25
     - 3.0.26
+    - 3.0.27
     compatible:
     - 3.0.15
     - 3.0.16
@@ -349,7 +350,8 @@ m_ResolvedPackages:
     - 3.0.24
     - 3.0.25
     - 3.0.26
-    verified: 3.0.26
+    - 3.0.27
+    verified: 3.0.27
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
